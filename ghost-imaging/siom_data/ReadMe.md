@@ -1,7 +1,9 @@
 Spectral GISC Camera Data Instruction
-y=Ax (single precision)
+
+	y=Ax (single precision)
 
 Measurement Matrix A 
+
 folder ../A/
 
 	A is the combination of RO_5x0nm.mat.
@@ -11,11 +13,14 @@ folder ../A/
 	size A: 176400 * 176400; CR: 100%
 
 Observed Signal y(mario or aloe)
+
 folder ../y/
 
 	size y: 176400 * 1
 
-Optimization Variable x(vector)/X(cube matrix)
+Optimization Variable 
+
+x(vector)/X(cube matrix)
 
 	size x: 176400 * 1, size X: 140 * 140 * 9
 	
