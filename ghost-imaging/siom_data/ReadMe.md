@@ -20,8 +20,7 @@ folder ../y/
 
 Optimization Variable 
 
-x(vector)/X(cube matrix)
-
+	x(vector)/X(cube matrix)
 	size x: 176400 * 1, size X: 140 * 140 * 9
 	
 ../references/ folder contains two reference images aloe.png and mario.png
